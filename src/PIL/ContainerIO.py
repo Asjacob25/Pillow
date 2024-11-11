@@ -12,7 +12,7 @@
 # Copyright (c) 1995 by Fredrik Lundh
 #
 # See the README file for information on usage and redistribution.
-#test
+#testing
 from __future__ import annotations
 
 import io
